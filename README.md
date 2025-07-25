@@ -1,2 +1,2 @@
-# pitchlab
+# DeckLab
 sec9-pitchlab
